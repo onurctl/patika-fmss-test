@@ -6,5 +6,7 @@ InetlliJ IDEA, Selenium, Cucumber ve Junit kullanıldı.
 - Yanlış kullanıcı adı ve şifre ile giriş
 
 ![github](screenshots/login-1.png)
+![github](screenshots/login-1-2.png)
+![github](screenshots/login-1-3.png)
 
 
