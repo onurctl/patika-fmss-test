@@ -1,4 +1,10 @@
 # Patika.dev & FMSS - Test Otomasyon Ödevi
-Selenium, Cucumber ve Junit kullanıldı.
+InetlliJ IDEA, Selenium, Cucumber ve Junit kullanıldı.
+
+## Valid-Invalid Login Senaryoları:
+- Doğru kullanıcı adı ve şifre ile giriş
+- Yanlış kullanıcı adı ve şifre ile giriş
+
+![github](picture/login-1.png)
 
 
