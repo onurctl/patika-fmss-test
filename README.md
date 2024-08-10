@@ -9,4 +9,10 @@ InetlliJ IDEA, Selenium, Cucumber ve Junit kullanıldı.
 ![github](screenshots/login-1-2.png)
 ![github](screenshots/login-1-3.png)
 
+## Serach 1:
+- Timesheet sayfasında invalid arama 
+
+![github](screenshots/search-1.png)
+![github](screenshots/search-1-2.png)
+
 
