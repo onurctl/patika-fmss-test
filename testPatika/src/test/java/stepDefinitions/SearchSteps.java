@@ -83,7 +83,7 @@ public class SearchSteps {
         assertEquals(expectedCount, actualCount);
     }
 
-    // search 5 steps: .................................................................................................
+    // search 4 steps: .................................................................................................
 
     @Then("User should see the {string} on the Side Panel")
     public void user_should_see_full_text_search_results_on_side_panel(String expectedResult) {
