@@ -1,10 +1,12 @@
 Feature: User login
 
+  Background:
+    Given User is on the login page
+
   # Case_01_01 - valid login: ..........................................................................................
 
   @login
   Scenario Outline: Login with valid credentials
-    Given User is on the login page
     When User enter valid username "<username>" and password "<password>"
     And User submit the login form
     Then User should be redirected to the dashboard page
@@ -16,7 +18,6 @@ Feature: User login
 
   @login
   Scenario Outline: Login with invalid credentials
-    Given User is on the login page
     When User enter invalid username "<username>" and password "<password>"
     And User submit the login form
     Then User see the error message
