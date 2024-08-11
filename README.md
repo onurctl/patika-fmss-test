@@ -8,6 +8,9 @@ InetlliJ IDEA, Selenium, Cucumber ve Junit kullanıldı.
 ![github](screenshots/login-1.png)
 ![github](screenshots/login-1-2.png)
 ![github](screenshots/login-1-31.png)
+
+- Sayfadan görüntü
+
 ![github](screenshots/site-ss/lgn1.png)
 
 
