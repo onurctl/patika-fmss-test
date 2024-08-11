@@ -7,7 +7,7 @@ InetlliJ IDEA, Selenium, Cucumber ve Junit kullanıldı.
 
 ![github](screenshots/login-1.png)
 ![github](screenshots/login-1-2.png)
-![github](screenshots/login-1-3.png)
+![github](screenshots/login-1-31.png)
 
 ## Search 1:
 - Timesheet sayfasında invalid arama ve hata mesajını doğrulama
